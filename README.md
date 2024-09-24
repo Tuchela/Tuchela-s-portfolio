@@ -9,7 +9,7 @@
 
 ### DEMO LINK
 
-[Tuchela-s-portfolio] {https://tuchela.github.io/Tuchela-s-portfolio/}
+[Tuchela-s-portfolio](https://tuchela.github.io/Tuchela-s-portfolio/)
 
 ### Author
 
