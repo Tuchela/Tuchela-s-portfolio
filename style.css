@@ -259,7 +259,8 @@ h1 {
     flex-wrap: wrap;
   }
   .project {
-    width: 45%;
+    width: 100%;
+    height: auto;
   }
   .about-container {
     flex-direction: column;
