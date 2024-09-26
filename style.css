@@ -254,6 +254,9 @@ h1 {
   }
   .hero-container {
     flex-direction: column;
+    gap: 1.5rem;
+    justify-content: center;
+    align-items: center;
   }
   .skill-lists {
     flex-wrap: wrap;
