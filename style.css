@@ -20,6 +20,9 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 999;
   background-color: #757575;
   color: #fff;
   padding: 1rem 2rem;
@@ -277,7 +280,7 @@ h1 {
     flex-direction: column;
     gap: 2rem;
   }
-  .contact-container{
+  .contact-container {
     margin: 1.1rem;
   }
 }
