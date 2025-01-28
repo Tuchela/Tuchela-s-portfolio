@@ -5,6 +5,7 @@
 - HTML
 - CSS
 - GIT
+- JavaScript
 - Command line tools
 
 ### DEMO LINK
